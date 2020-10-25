@@ -1,0 +1,50 @@
+* {
+    background-color: #ccc;
+}
+
+
+.top div {
+    width: 280px;
+    height: 200px;
+    display: inline-block;
+    margin: 15px 15px 30px 15px;
+    box-shadow: 1px 1px 12px black;
+}
+
+
+button {
+    margin-left: 260px;
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.a1 {
+    margin-left: 115px;
+}
+
+.buttons {
+    width: 100%;
+    display: inline-block;
+}
+
+
+.bottom {
+    width: 300px;
+    height: 210px;
+    margin-top: 200px;
+    display: inline-block;
+    margin-left: 750px;
+    box-shadow: 2px 2px 13px black;
+}
+
+
+.button {
+    margin-top: 30px;
+    margin-left: 615px;
+    margin-bottom: 10px;
+}
+
