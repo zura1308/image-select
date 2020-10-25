@@ -51,7 +51,9 @@ btn5.addEventListener("click", function(e){
 
 btn6.addEventListener("click", function(e){
     const selectedSrc=e.currentTarget.parentNode.getElementsByTagName("img")[0].getAttribute("src"); 
+    bottomImg.setAttribute("src", selectedSrc); 
 })
+
 
 
 img1.addEventListener("click", function(e){ //image_ს ვანიჭებთ ევენთლისენერს და ვატანთ ევენთს.
